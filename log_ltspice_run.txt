@@ -1,0 +1,1 @@
+wine: cannot find 'C:\Program Files\LTC\LTspiceXVII\XVIIx64.exe'
